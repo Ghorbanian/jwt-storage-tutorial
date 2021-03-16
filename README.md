@@ -1,8 +1,8 @@
-#JWT Storage Tutorial#
+# JWT Storage Tutorial #
 
 ---
 
-##Run Instructions:##
+## Run Instructions: ##
 
 Make sure you have Node.js version 10.22.0 or greater and npm version 6.14.6 or greater.
 
